@@ -4,3 +4,4 @@
 
 - Strogonoff de frango
 - pavê
+- Bolo de cenoura
